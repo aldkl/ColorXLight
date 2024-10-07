@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - MovingGround
+  - Monster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Black
+    uniqueID: 2715662177
+    locked: 0
+  - name: Back5
+    uniqueID: 3092636361
+    locked: 0
+  - name: Back4En
+    uniqueID: 87563725
+    locked: 0
+  - name: Portal2_1
+    uniqueID: 4125559461
+    locked: 0
+  - name: Back3En
+    uniqueID: 3996565035
+    locked: 0
+  - name: fog1
+    uniqueID: 896738563
+    locked: 0
+  - name: Back2En
+    uniqueID: 1877317501
+    locked: 0
+  - name: fog2
+    uniqueID: 3827900867
+    locked: 0
+  - name: ParticleEn
+    uniqueID: 2951699133
+    locked: 0
+  - name: Back1En
+    uniqueID: 3802673443
+    locked: 0
+  - name: Door
+    uniqueID: 1545715003
+    locked: 0
+  - name: platform
+    uniqueID: 1407639363
+    locked: 0
+  - name: Portal1_2
+    uniqueID: 3891538423
+    locked: 0
+  - name: Character,GameObj
+    uniqueID: 2478159513
+    locked: 0
+  - name: plant
+    uniqueID: 1800402953
+    locked: 0
+  - name: Front1En
+    uniqueID: 2608284785
+    locked: 0
+  - name: plant2
+    uniqueID: 757063665
+    locked: 0
+  - name: Water
+    uniqueID: 1686149969
+    locked: 0
+  - name: Front2En
+    uniqueID: 2913365573
+    locked: 0
+  - name: Front3En
+    uniqueID: 1492641115
+    locked: 0
+  - name: UI
+    uniqueID: 2001594845
+    locked: 0
